@@ -69,10 +69,10 @@ Focus on high-demand corridors ensures better service availability
 
 Files in this Repository
 
-uber_trip_data.csv – Sample cleaned dataset
+uber_trip_details.csv – Sample cleaned dataset
 
 Uber_Trip_Dashboard.pbix – Power BI dashboard file
 
 Uber_Trip_Dashboard_Snapshot.png – Dashboard visualization snapshot
 
-Uber_Trip_Analysis_Report.pdf – Detailed report with insights
+Uber_Trip_Analysis.pdf – Detailed report with insights
